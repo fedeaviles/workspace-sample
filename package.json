@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "build":"npm run build -w is-even && npm run build -w is-odd",
+    "release":"npm run release -w is-even && npm run release -w is-odd",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
