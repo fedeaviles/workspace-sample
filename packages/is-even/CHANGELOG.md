@@ -1,3 +1,10 @@
+# [@fede3/is-even-v1.2.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.1.0...@fede3/is-even-v1.2.0) (2022-11-29)
+
+
+### Features
+
+* test version ([f2b48aa](https://github.com/fedeaviles/workspace-sample/commit/f2b48aa1a70ea112f66b707cead3db5cd0c93c9d))
+
 # [@fede3/is-even-v1.1.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.0.0...@fede3/is-even-v1.1.0) (2022-11-29)
 
 
