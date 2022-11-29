@@ -1,5 +1,5 @@
 {
-  "name": "is-odd",
+  "name": "@fede3/is-odd",
   "version": "0.0.0",
   "main": "dist/index.js",
   "devDependencies": {},
@@ -8,6 +8,6 @@
     "release":"npx semantic-release -e semantic-release-monorepo"
   },
   "dependencies": {
-    "is-even":"*"
+    "@fede3/is-even":"*"
   }
 }

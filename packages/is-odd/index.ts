@@ -1,3 +1,3 @@
-import { isEven } from "is-even";
+import { isEven } from "@fede3/is-even";
 
 export const isOdd = (x: number) => !isEven(x);

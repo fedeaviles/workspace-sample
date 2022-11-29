@@ -1,5 +1,5 @@
 {
-  "name": "is-even",
+  "name": "@fede3/is-even",
   "version": "0.0.0",
   "main": "dist/index.js",
   "devDependencies": {},
