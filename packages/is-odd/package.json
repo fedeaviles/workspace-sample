@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "@fede3/is-even":"*"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

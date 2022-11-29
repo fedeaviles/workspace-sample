@@ -6,5 +6,8 @@
   "scripts": {
     "build": "tsc index.ts --outDir dist",
     "release":"npx semantic-release -e semantic-release-monorepo"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
