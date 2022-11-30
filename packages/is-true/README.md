@@ -1,3 +1,3 @@
 # Is True
 
-Is true package.
+Is true package
