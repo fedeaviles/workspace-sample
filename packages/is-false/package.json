@@ -1,0 +1,23 @@
+{
+  "name": "@fede3/is-false",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc index.ts --outDir dist",
+    "release": "npx semantic-release -e semantic-release-monorepo"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeaviles/workspace-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeaviles/workspace-sample/issues"
+  },
+  "homepage": "https://github.com/fedeaviles/workspace-sample#readme"
+}
