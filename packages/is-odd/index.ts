@@ -1,3 +1,3 @@
 import { isEven } from "@fede3/is-even";
 
-export const isOddas = (x: number) => !isEven(x);
+export const isOdd = (x: number) => !isEven(x);
