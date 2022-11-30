@@ -5,8 +5,8 @@
   "private": "true",
   "main": "index.js",
   "scripts": {
-    "build":"npm run build -w @fede3/is-even && npm run build -w @fede3/is-odd",
-    "release":"npm run release -w @fede3/is-even && npm run release -w @fede3/is-odd",
+    "build":"npm run build -workspaces",
+    "release":"npm run release -workspaces",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
