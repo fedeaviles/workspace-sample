@@ -1,3 +1,10 @@
+# [@fede3/is-odd-v1.2.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.1.0...@fede3/is-odd-v1.2.0) (2022-11-30)
+
+
+### Features
+
+* remove keywords ([389d15f](https://github.com/fedeaviles/workspace-sample/commit/389d15fc30526cdc4aa5ec071ccabece6b995fbc))
+
 # [@fede3/is-odd-v1.1.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.0.0...@fede3/is-odd-v1.1.0) (2022-11-30)
 
 
