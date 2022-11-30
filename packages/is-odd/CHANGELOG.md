@@ -1,3 +1,15 @@
+# [@fede3/is-odd-v3.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v2.0.0...@fede3/is-odd-v3.0.0) (2022-11-30)
+
+
+* b ([7ddc0fe](https://github.com/fedeaviles/workspace-sample/commit/7ddc0fea565952dff12745eaedc8ec2869460808))
+* a ([0815a09](https://github.com/fedeaviles/workspace-sample/commit/0815a0980c8553c5aefca84aedd142ecf2535b54))
+
+
+### BREAKING CHANGES
+
+* other
+* first
+
 # [@fede3/is-odd-v2.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.2.1...@fede3/is-odd-v2.0.0) (2022-11-30)
 
 
