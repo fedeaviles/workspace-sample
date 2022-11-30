@@ -1,3 +1,15 @@
+# [@fede3/is-odd-v2.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.2.1...@fede3/is-odd-v2.0.0) (2022-11-30)
+
+
+### Features
+
+* add content to README ([e1fecff](https://github.com/fedeaviles/workspace-sample/commit/e1fecff2b3d6276e18e97e48aa6dcbe8d4cf61bf))
+
+
+### BREAKING CHANGES
+
+* testing
+
 # [@fede3/is-odd-v1.2.1](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.2.0...@fede3/is-odd-v1.2.1) (2022-11-30)
 
 
