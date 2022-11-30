@@ -1,3 +1,10 @@
+# [@fede3/is-odd-v1.2.1](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.2.0...@fede3/is-odd-v1.2.1) (2022-11-30)
+
+
+### Bug Fixes
+
+* const name ([059d507](https://github.com/fedeaviles/workspace-sample/commit/059d5071510bcd30764d0af2af4739732fc7c91a))
+
 # [@fede3/is-odd-v1.2.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.1.0...@fede3/is-odd-v1.2.0) (2022-11-30)
 
 
