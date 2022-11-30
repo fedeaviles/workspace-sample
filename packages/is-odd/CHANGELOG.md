@@ -1,3 +1,15 @@
+# [@fede3/is-odd-v4.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v3.0.0...@fede3/is-odd-v4.0.0) (2022-11-30)
+
+
+* multiple bc ([fdb01eb](https://github.com/fedeaviles/workspace-sample/commit/fdb01eb4d134ef6d65e4aec6198faa30c67a370e))
+
+
+### BREAKING CHANGES
+
+* first bc.
+second bc.
+other.
+
 # [@fede3/is-odd-v3.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v2.0.0...@fede3/is-odd-v3.0.0) (2022-11-30)
 
 
