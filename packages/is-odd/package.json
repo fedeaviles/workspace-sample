@@ -12,5 +12,16 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeaviles/workspace-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeaviles/workspace-sample/issues"
+  },
+  "homepage": "https://github.com/fedeaviles/workspace-sample#readme"
 }
