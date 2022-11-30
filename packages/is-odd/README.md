@@ -1,3 +1,3 @@
 # Is Odd
 
-Is odd package
+Is odd package.
