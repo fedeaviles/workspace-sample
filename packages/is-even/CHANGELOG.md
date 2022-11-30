@@ -1,3 +1,15 @@
+# [@fede3/is-even-v2.0.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.4.0...@fede3/is-even-v2.0.0) (2022-11-30)
+
+
+### Performance Improvements
+
+* update readme ([8ba300b](https://github.com/fedeaviles/workspace-sample/commit/8ba300b99e1a2bffe77ba8c7785309f19cb1ef8f))
+
+
+### BREAKING CHANGES
+
+* readmeeee
+
 # [@fede3/is-even-v1.4.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.3.0...@fede3/is-even-v1.4.0) (2022-11-30)
 
 
