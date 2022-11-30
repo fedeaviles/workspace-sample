@@ -1,3 +1,10 @@
+# [@fede3/is-odd-v1.1.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-odd-v1.0.0...@fede3/is-odd-v1.1.0) (2022-11-30)
+
+
+### Features
+
+* update is odd ([66f4408](https://github.com/fedeaviles/workspace-sample/commit/66f4408e571de42677f8a4236ecf2f33b530b792))
+
 # @fede3/is-odd-v1.0.0 (2022-11-29)
 
 
