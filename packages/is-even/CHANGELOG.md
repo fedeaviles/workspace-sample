@@ -1,3 +1,10 @@
+# [@fede3/is-even-v1.4.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.3.0...@fede3/is-even-v1.4.0) (2022-11-30)
+
+
+### Features
+
+* remove keywords ([389d15f](https://github.com/fedeaviles/workspace-sample/commit/389d15fc30526cdc4aa5ec071ccabece6b995fbc))
+
 # [@fede3/is-even-v1.3.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v1.2.0...@fede3/is-even-v1.3.0) (2022-11-29)
 
 
