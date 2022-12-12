@@ -1,6 +1,6 @@
 {
   "name": "@fede3/is-even",
-  "version": "2.3.0-dev.2",
+  "version": "2.3.0",
   "main": "dist/index.js",
   "devDependencies": {},
   "scripts": {
