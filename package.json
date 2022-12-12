@@ -64,7 +64,12 @@
           "changelogFile": "CHANGELOG.md",
           "changelogTitle": "# Versioning Changelog"
         }
-      ]
+      ],
+      ["@semantic-release/github", {
+        "assets": [
+          {"path": "dist", "label": "Source code"}
+        ]
+      }]
     ]
   }
 }
