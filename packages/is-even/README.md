@@ -1,3 +1,3 @@
 # Is Even
 
-Is even package.
+Is even package
