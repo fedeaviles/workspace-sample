@@ -1,3 +1,17 @@
+# [@fede3/is-even-v2.3.0-dev.2](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v2.3.0-dev.1...@fede3/is-even-v2.3.0-dev.2) (2022-12-12)
+
+
+### Features
+
+* update readme 2 ([7c66a25](https://github.com/fedeaviles/workspace-sample/commit/7c66a25f1a6321577f734f37d398e0f4a8bf0661))
+
+# [@fede3/is-even-v2.3.0-dev.1](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v2.2.0...@fede3/is-even-v2.3.0-dev.1) (2022-12-12)
+
+
+### Features
+
+* update readme ([f9d0a40](https://github.com/fedeaviles/workspace-sample/commit/f9d0a409af5065024dd09400022cba21149eb889))
+
 # [@fede3/is-even-v2.2.0](https://github.com/fedeaviles/workspace-sample/compare/@fede3/is-even-v2.1.0...@fede3/is-even-v2.2.0) (2022-11-30)
 
 

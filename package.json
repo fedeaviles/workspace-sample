@@ -64,7 +64,8 @@
           "changelogFile": "CHANGELOG.md",
           "changelogTitle": "# Versioning Changelog"
         }
-      ]
+      ],
+      "@semantic-release/github"
     ]
   }
 }
